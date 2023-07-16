@@ -1,5 +1,5 @@
-# Grundlagen_in_Typescript
-# Projektstatus: fortlaufend
+# Grundlagen_in_Typescript - Projektstatus: fortlaufend
+
 Grundlagen in Typescript
 
 Um immer auf dem aktuellen Stand zu sein, verbessere ich meine derzeitigen IT-Kenntnisse und bringe mir neue 
